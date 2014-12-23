@@ -5,3 +5,6 @@ doge
 * Go to browser console
 * Paste script
 * Doge forever
+
+
+Credits to: github.com/kinghshu
